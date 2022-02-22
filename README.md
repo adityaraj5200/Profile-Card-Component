@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-# Live Site URL: [Profile card component](https://adityaraj5200-profile-card-component.netlify.app/)
+## Live Site URL: [Profile card component](https://adityaraj5200-profile-card-component.netlify.app/)
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
